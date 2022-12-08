@@ -17,4 +17,4 @@ Describe the changes and motivations for the pull request, unless obvious from t
 
 | Before | After|
 | ------ | ---- |
-| Image  | ---- |
+| Image  | Image |

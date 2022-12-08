@@ -4,7 +4,7 @@
 - [ ] ...
 
 ## Description
-Add the all the descriptions here for this issue
+Add all the descriptions here for this issue
 
 ## Screenshot
 Add screenshots here if needed
